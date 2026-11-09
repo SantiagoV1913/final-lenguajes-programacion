@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<productos>
+  <producto idProducto="1">
+    <nombre>Cuaderno</nombre>
+    <fechaVencimiento>2028-01-15</fechaVencimiento>
+    <descripcion>Cuaderno universitario</descripcion>
+  </producto>
+  <producto idProducto="2">
+    <nombre>Lapicero azul</nombre>
+    <fechaVencimiento>2027-06-20</fechaVencimiento>
+    <descripcion>Lapicero de tinta azul</descripcion>
+  </producto>
+  <producto idProducto="3">
+    <nombre>Carpeta</nombre>
+    <fechaVencimiento>2029-03-10</fechaVencimiento>
+    <descripcion>Carpeta plastificada</descripcion>
+  </producto>
+  <producto idProducto="4">
+    <nombre>Borrador</nombre>
+    <fechaVencimiento>2027-11-05</fechaVencimiento>
+    <descripcion>Borrador blanco</descripcion>
+  </producto>
+  <producto idProducto="5">
+    <nombre>Regla</nombre>
+    <fechaVencimiento>2030-08-30</fechaVencimiento>
+    <descripcion>Regla de treinta centímetros</descripcion>
+  </producto>
+</productos>
